@@ -16,3 +16,5 @@ Finalmente transformamos isto em tabela.
 # Sobre o autor:
 Sou um estudante da faculdade de medicina da UFMG com um grande paixão pela neurologia, pelas ciências exatas e suas aplicações em conjunto. Fui medalhista de ouro da olimpíada nacional de ciênicia de 2019 e sou membro na liga acadêmica de neurologia, neurocirurgia e neuroanatomia.
 Atualmente estou aprendendo python na cisco network academy para complementar meus estudos em medicina, além de um curso do centro de inteligência artificial em saúde da UFMG sobre ciência de dados e python
+
+* comando git push
